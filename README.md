@@ -1,4 +1,4 @@
-# This project is an example of WebScraping with a JavaScript Project
+# Example of WebScraping for a JavaScript Website
 
 To execute the project in local, you need to setup a Splash server on port 8050
 
